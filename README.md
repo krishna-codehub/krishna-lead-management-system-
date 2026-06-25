@@ -124,6 +124,17 @@ Export leads to CSV/PDF
 Docker containerization
 Swagger API documentation
 
+
+## 📸 Screenshots
+
+### Login Page
+![Login](./screenshots/login.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+
+
 🧪 Testing
 
 You can test all APIs using Postman or any API testing tool.
